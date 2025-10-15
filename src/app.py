@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"status": "API ok, corriendo!"}
+    return {"status": "Desarrollado Por Richard Almiron!"}
